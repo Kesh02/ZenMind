@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Lab Exam2</string>
+    <string name="chat">Online chat</string>
+    <string name="consult">Find by yourself</string>
+    <string name="Consult">Consult</string>
+    <string name="Meditation">Mindful Meditation</string>
+    <string name="Gm">Welcome Lina!</string>
+    <string name="articles">Discover articles</string>
+    <string name="Cons">Consult</string>
+    <string name="Find">Consult a therapist</string>
+    <string name="online">Enter community group chats</string>
+    <string name="doc">Suggested Therpists</string>
+    <string name="community">Enter community group chat</string>
+    <string name="Help">We are ready to help you</string>
+    <string name="day">Which day would you like to meditate</string>
+    <string name="meditation_day">Which day would you like to meditate?</string>
+    <string name="profilewelcome">Welcome to your profile!</string>
+    <string name="appointmentsuccess">Your appointment is successful!</string>
+    <string name="appointment">
+        <![CDATA[
+        You booked an appointment with Dr.
+        Samitha Dias on February 21,
+        at 02:00 PM]]>
+    </string>
+    <string name="Appoint">Appointment</string>
+    <string name="docdes">Dr. Samitha Roy\nSpecialist for mental health</string>
+    <string name="ap">Appointment for</string>
+    <string name="Patient">Patient\'s name</string>
+    <string name="hint1">Enter patient\'s name</string>
+    <string name="phoneno">"Phone number "</string>
+    <string name="hint2">"Enter phone number "</string>
+    <string name="book">Book an appointment</string>
+
+</resources>
